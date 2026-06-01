@@ -1,10 +1,12 @@
 # Lab 6 – Scale and Load Balance Your Architecture
 
 ## Title
-
 Scale and Load Balance Your Architecture
-Author : your name   Reg no : yours   Date :
-
+```
+Author : T.K.SHRIVIMAL
+Reg no : 212224220101
+Date : 30-05-2026
+```
 ---
 
 ## Objective
@@ -64,14 +66,31 @@ Students test the setup by generating traffic and observing automatic scaling an
 
 ---
 
-## Workflow (To be filled by Student)
+## Workflow :
 
-Describe step-by-step how you performed this experiment in your own words.
+1.Launch multiple servers.
+
+2.Deploy the application on each server.
+
+3.Create a load balancer.
+
+4.Add servers to the load balancer.
+
+5.Configure auto-scaling.
+
+6.Test load distribution.
 
 ---
 
 ## Output Screenshots 
-
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/8a9bc8f4-11fa-4062-b2f5-d796441678f3" />
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/4a35fcb8-25c5-4933-b088-a85f3d5594e4" />
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/cfc7c903-f961-4309-abe9-db9af923f5bd" />
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/0efb9ef3-8713-428f-8c72-1d0714c7f44f" />
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/9984f72f-538b-4610-8390-f872ad9d80fe" />
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/cd16666b-0b38-4414-9ffb-c1a8ceab07c6" />
+<img width="1912" height="900" alt="Screenshot 2026-03-12 215935" src="https://github.com/user-attachments/assets/0e1d0985-ca8e-435b-a5ad-dc52b372f2d0" />
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/9f38e687-3eec-4eab-8baa-deb8ccf72f17" />
 
 ---
 
